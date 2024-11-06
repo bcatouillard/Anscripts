@@ -1,6 +1,6 @@
 {
     "require":{
-        "twig/twig": "2.*",
+        "twig/twig": "3.*",
         "twbs/bootstrap": "4.1.3"
     }
 }
